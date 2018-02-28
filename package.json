@@ -1,0 +1,15 @@
+{
+  "name": "node-demo",
+  "version": "0.0.0",
+  "description": "Projet de démo pour un cours",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christophe HARRER",
+  "license": "ISC"
+}
