@@ -4,7 +4,9 @@
   "description": "Projet de démo pour un cours",
   "main": "main.js",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "mongodb": "^3.0.4"
   },
   "devDependencies": {},
   "scripts": {
